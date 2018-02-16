@@ -1,0 +1,1 @@
+QtSuperMacros.pro
