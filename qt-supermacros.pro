@@ -1,1 +1,1 @@
-QtSuperMacros.pro
+include($$PWD/QtSuperMacros.pro)
